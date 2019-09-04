@@ -59,6 +59,10 @@
 {lshift}{0}>{speed9}{-lshift}{6}{+lshift}
 {rshift}{0}>{speed9}{-rshift}{6}{+rshift}
 {0}>{speed9}{cbrack}
+***windows
+{rctrl}{;}>{speed9}{-lctrl}{z}{+lctrl}
+{rctrl}{lshift}{;}>{speed9}{-lctrl}{-lshift}{z}{+lctrl}{+lshift}
+{rctrl}{rshift}{;}>{speed9}{-lctrl}{-lshift}{z}{+lctrl}{+lshift}
+{rctrl}{q}>{speed9}{-lctrl}{x}{+lctrl}
 {rctrl}{j}>{speed9}{-lctrl}{c}{+lctrl}
 {rctrl}{k}>{speed9}{-lctrl}{v}{+lctrl}
-{rctrl}{q}>{-lctrl}{x}{+lctrl}

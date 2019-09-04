@@ -59,9 +59,10 @@
 {lshift}{0}>{speed9}{-lshift}{6}{+lshift}
 {rshift}{0}>{speed9}{-rshift}{6}{+rshift}
 {0}>{speed9}{cbrack}
-{rctrl}{q}>{-rwin}{x}{+rwin}
-{rctrl}{j}>{-rwin}{c}{+rwin}
-{rctrl}{k}>{-rwin}{v}{+rwin}
-{lctrl}{z}>{-rwin}{z}{+rwin}
-{lshift}{lctrl}{z}>{-rwin}{-lshift}{z}{+rwin}{+lshift}
-{lalt}{caps}>{lalt}{-lalt}{tab}{+lalt}
+***mac
+{rctrl}{;}>{speed9}{-rwin}{z}{+rwin}
+{rctrl}{lshift}{;}>{speed9}{-rwin}{-lshift}{z}{+rwin}{+lshift}
+{rctrl}{rshift}{;}>{speed9}{-rwin}{-lshift}{z}{+rwin}{+lshift}
+{rctrl}{q}>{speed9}{-rwin}{x}{+rwin}
+{rctrl}{j}>{speed9}{-rwin}{c}{+rwin}
+{rctrl}{k}>{speed9}{-rwin}{v}{+rwin}
