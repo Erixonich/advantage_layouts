@@ -13,7 +13,7 @@
 [kp-caps]>[tab]
 [;]>[']
 [cbrack]>[menu]
-[kpenter2]>[kp0]
+[intl-\]>[kp-insert]
 [`]>[rctrl]
 [kp-`]>[rctrl]
 [7]>[\]
@@ -41,6 +41,7 @@
 [pdown]>[delete]
 [kp-pdown]>[delete]
 [kpenter1]>[kp0]
+[kpenter2]>[kp0]
 {lshift}{1}>{speed9}{-lshift}{4}{+lshift}
 {rshift}{1}>{speed9}{-rshift}{4}{+rshift}
 {1}>{speed9}{obrack}
