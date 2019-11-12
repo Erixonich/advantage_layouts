@@ -83,9 +83,9 @@
 {lshift}{0}>{speed9}{-lshift}{4}{+lshift}
 {rshift}{0}>{speed9}{-rshift}{4}{+rshift}
 ***win
-{kp-;>{speed9}{-rctrl}{z}{+rctrl}
+{kp-;}>{speed9}{-rctrl}{z}{+rctrl}
 {lshift}{kp-;}>{speed9}{-rctrl}{-lshift}{z}{+rctrl}{+lshift}
-{rshift}{kp-}>{speed9}{-rctrl}{-rshift}{z}{+rctrl}{+rshift}
+{rshift}{kp-;}>{speed9}{-rctrl}{-rshift}{z}{+rctrl}{+rshift}
 {kp-q}>{speed9}{-rctrl}{x}{+rctrl}
 {kp-j}>{speed9}{-rctrl}{c}{+rctrl}
 {kp-k}>{speed9}{-rctrl}{v}{+rctrl}

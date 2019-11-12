@@ -83,9 +83,9 @@
 {lshift}{0}>{speed9}{-lshift}{4}{+lshift}
 {rshift}{0}>{speed9}{-rshift}{4}{+rshift}
 ***mac
-{kp-;>{speed9}{-rwin}{z}{+rwin}
+{kp-;}>{speed9}{-rwin}{z}{+rwin}
 {lshift}{kp-;}>{speed9}{-rwin}{-lshift}{z}{+rwin}{+lshift}
-{rshift}{kp-}>{speed9}{-rwin}{-rshift}{z}{+rwin}{+rshift}
+{rshift}{kp-;}>{speed9}{-rwin}{-rshift}{z}{+rwin}{+rshift}
 {kp-q}>{speed9}{-rwin}{x}{+rwin}
 {kp-j}>{speed9}{-rwin}{c}{+rwin}
 {kp-k}>{speed9}{-rwin}{v}{+rwin}
