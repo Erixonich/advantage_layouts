@@ -41,8 +41,8 @@
 [pdown]>[delete]
 [kp-pdown]>[delete]
 **numbers
-[kpenter1]>[kp0]
-[kpenter2]>[kp0]
+[kpenter1]>[0]
+[kpenter2]>[0]
 [kp1]>[1]
 [kp2]>[2]
 [kp3]>[3]
