@@ -1,4 +1,6 @@
 [=]>[`]
+[kp-lshift]>[lshift]
+[kp-rshift]>[rshift]
 [kp-P]>[rmouse]
 [kp-.]>[up]
 [kp-,]>[lmouse]
