@@ -1,12 +1,7 @@
-[=]>[`]
-[kp-P]>[rmouse]
-[kp-.]>[up]
-[kp-,]>[lmouse]
-[']>[;]
+[=]>[escape]
+[kp-=]>[`]
 [tab]>[home]
-[kp-U]>[right]
-[kp-E]>[down]
-[kp-O]>[left]
+[']>[;]
 [caps]>[tab]
 [kp-caps]>[tab]
 [;]>[']
@@ -14,14 +9,15 @@
 [cbrack]>[pdown]
 [intl-\]>[kp-insert]
 [`]>[pup]
-[kp-`]>[pup]
-[lalt]>[caps]
-[kp-lalt]>[caps]
+[/]>[end]
+[\]>[/]
+[hyphen]>[intl-\]
+
+*thumb clusters
 [home]>[rwin]
 [kp-home]>[rwin]
 [end]>[kptoggle]
 [kp-end]>[kptoggle]
-[/]>[end]
 [lctrl]>[kpshft]
 [kp-lctrl]>[kpshft]
 [delete]>[lalt]
@@ -31,16 +27,19 @@
 [rctrl]>[bspace]
 [kp-rctrl]>[bspace]
 [kp0]>[space]
-[\]>[/]
 [rwin]>[pup]
 [kp-rwin]>[pup]
-[pup]>[kp0]
+[pup]>[pdown]
 [kp-pup]>[pdown]
 [pdown]>[delete]
 [kp-pdown]>[delete]
-**numbers
-[kpenter1]>[kp0]
-[kpenter2]>[kp0]
+[alt]>[hyper]
+[kp-alt]>[hyper]
+**thumb clusters
+
+*keypad numbers
+[kpenter1]>[0]
+[kpenter2]>[0]
 [kp1]>[1]
 [kp2]>[2]
 [kp3]>[3]
@@ -50,8 +49,10 @@
 [kp7]>[7]
 [kp8]>[8]
 [kp9]>[9]
-**macro_
-**number_row
+**keypad numbers
+
+****macro_***********
+*number_row
 {1}>{speed9}{obrack}
 {lshift}{1}>{speed9}{-lshift}{6}{+lshift}
 {rshift}{1}>{speed9}{-rshift}{6}{+rshift}
@@ -89,3 +90,11 @@
 {kp-q}>{speed9}{-rctrl}{x}{+rctrl}
 {kp-j}>{speed9}{-rctrl}{c}{+rctrl}
 {kp-k}>{speed9}{-rctrl}{v}{+rctrl}
+**number_row
+
+*misc
+{lshift}{escape}>{caps}
+{rshift}{escape}>{caps}
+{lshift}{kp-escape}>{caps}
+{rshift}{kp-escape}>{caps}
+**misc

@@ -36,7 +36,7 @@
 [\]>[/]
 [rwin]>[pup]
 [kp-rwin]>[pup]
-[pup]>[kp0]
+[pup]>[pdown]
 [kp-pup]>[pdown]
 [pdown]>[delete]
 [kp-pdown]>[delete]
